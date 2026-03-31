@@ -1,0 +1,9 @@
+[package]
+name = "silent-payments"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bip321 = { path = "../bip321"}
+bech32 = "0.11.1"
+

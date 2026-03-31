@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "src/bip321", 
+    "src/payjoin",
+    "src/silent-payment",
+    "src/payjoin"
+, "src/cli"]
+
+resolver = "2"
